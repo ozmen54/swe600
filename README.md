@@ -20,6 +20,7 @@ Please click the link below to see the projects: <br>
   </body>
 </table>
 <br>
+
 ## General rules for project grading:
-    * Students are allowed 20 minutes at most to present their work in class.
-    * Students who are not presenting on time will get 0 (zero) grade.
+* Students are allowed 20 minutes at most to present their work in class.
+* Students who are not presenting on time will get 0 (zero) grade.
