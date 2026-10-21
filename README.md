@@ -13,7 +13,7 @@ Please click the link below to see the projects: <br>
     <tr>
       <td>1</td>
       <td><b>Parallel image processing</b></td>
-      <td>Will be written.</td>
+      <td>Pthread, OpenMP and Multi-process solution on multi-core architecture.</td>
       <td>28 Oct 26</td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
