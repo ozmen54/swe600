@@ -17,6 +17,13 @@ Please click the link below to see the projects: <br>
       <td>28 Oct 26</td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td><b>Distributed Parallel Computing</b></td>
+      <td> Investigation on distributed parallel architectures: Apache-Spark, Apche-Hadoop, IVY or Munin</td>
+      <td>2 Dec 26</td>
+      <td><a href="midterm.pdf">Midterm</a></td>
+    </tr>
   </body>
 </table>
 <br>
